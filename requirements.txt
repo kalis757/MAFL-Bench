@@ -1,0 +1,7 @@
+torch==2.10.0
+transformers==5.2.0
+accelerate==1.12.0
+numpy==2.4.6
+scikit-learn==1.9.1
+PyYAML==6.0.3
+bitsandbytes>=0.45  # only needed when model.quantization is 4bit or 8bit
