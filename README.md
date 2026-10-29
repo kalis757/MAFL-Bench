@@ -124,3 +124,7 @@ scripts/run_all.py                evaluation entry point
 run_eval.sh                       batch run over all datasets
 dataset.tar.gz                    MAFL-Bench archive; extract it to get dataset/
 ```
+
+## License
+
+This project is released under the MIT License. See [`LICENSE`](./LICENSE) for details.
