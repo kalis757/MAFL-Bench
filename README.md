@@ -125,6 +125,17 @@ run_eval.sh                       batch run over all datasets
 dataset.tar.gz                    MAFL-Bench archive; extract it to get dataset/
 ```
 
+## Citation
+
+```bibtex
+@inproceedings{gao2026forensic,
+title={Forensic Localization in LLM Multi-Agent Systems},
+author={Gao, Anjun and Quan, Yueyang and Xia, Yufei and Liu, Zhuqing and Fang, Minghong},
+booktitle={Neural Information Processing Systems (NeurIPS)},
+year={2026}
+}
+```
+
 ## License
 
 This project is released under the MIT License. See [`LICENSE`](./LICENSE) for details.
