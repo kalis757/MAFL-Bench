@@ -136,6 +136,8 @@ year={2026}
 }
 ```
 
+If you find this project useful, please consider citing our paper.
+
 ## License
 
 This project is released under the MIT License. See [`LICENSE`](./LICENSE) for details.
