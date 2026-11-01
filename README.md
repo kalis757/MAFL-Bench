@@ -127,6 +127,8 @@ dataset.tar.gz                    MAFL-Bench archive; extract it to get dataset/
 
 ## Citation
 
+If you find this project useful, please consider citing our paper.
+
 ```bibtex
 @inproceedings{gao2026forensic,
 title={Forensic Localization in LLM Multi-Agent Systems},
